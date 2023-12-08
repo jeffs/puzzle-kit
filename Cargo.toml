@@ -1,0 +1,4 @@
+[workspace]
+members = ["primes"]
+
+resolver = "2"
